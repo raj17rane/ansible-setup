@@ -34,7 +34,7 @@ Please verify that all of the lab files, are in the expected locations after eit
 Mac OS X -
 
 ```
-/Users/rajesh/ansible-lab/.env
+/Users/rajesh/ansible-setup/.env
 /Users/rajesh/ansible-lab/DiveIntoAnsible_Cover.png
 /Users/rajesh/ansible-lab-lab/README.md
 /Users/rajesh/ansible-lab/docker-compose.yaml
